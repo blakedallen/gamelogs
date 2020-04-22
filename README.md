@@ -150,7 +150,10 @@ Damreus (alex) +5 antivenoms, +1 potion of healing
 ### 1. The shipment
 The adventurers set out into the shipwreck to find it infested with troglodytes.
 After defeating the troglodytes the adventurers found 3.5 barrels of magical powders and brought them back to ravenswood
-### Bel (mollie) skimmed a bit off the top into a couple sacks
+
+#### "You know what time it is" - somerled
+#### maru helped the team find a secret room
+#### Bel (mollie) skimmed a bit off the top into a couple sacks
 
 ### Gold
 Bel (Mollie) 14gp 
