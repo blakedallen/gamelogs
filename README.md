@@ -11,11 +11,11 @@ the mark:
 Draco turned into shadow and they were sent to the shadow dimension
 
 They went to the shadow dimension, got attacked by skeletons and the like
-### Notable encounter: they met a spirit dog 
+#### Notable encounter: they met a spirit dog 
 
 The party narrowly escaped the shadow creatures and made it to the dark citadel
 
-### Somerled (kacper) +1 silver sword
+#### Somerled (kacper) +1 silver sword
 
 Party met saffos:
 
@@ -23,7 +23,7 @@ Saffos explained to them that they are part of a prophecy,
 they are bound to the three realms and travel between them sporadically
 Saffos provided a ring for Ondren of the fey, 
 
-### Nebbles (Neal) could tell there is something about this ring that was evil
+#### Nebbles (Neal) could tell there is something about this ring that was evil
 Neal took it and put it in a bag. 
 
 Feeling a burning sensation the group was sent to the fey world
