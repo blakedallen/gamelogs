@@ -54,7 +54,7 @@ Damreus (Alex) +1 sparkle potion
 
 ## Session 2
 
-pre-game, everyone +1 level (2nd level)
+#### pre-game, everyone +1 level (2nd level)
 
 Dark lisa + Bel are now friends
 successful charisma roll
