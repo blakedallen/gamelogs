@@ -1,6 +1,6 @@
 # Lorden
 
-<img src="img/Lorden.jpg" width="500" />
+<img src="img/Lorden.jpg" width="900" />
 
 ## Session 1
 
