@@ -60,6 +60,9 @@ Dark lisa + Bel are now friends
 successful charisma roll
 
 ### ludmarillion 
+
+<img src="img/ludmarillion.jpg" width="600" />
+
 Somerled (kacper) intimidated ludmarillion
 Bel (mollie) persuaded ludmarillion successfully
 Damreus (alex) attempted 3 seductions and did not succeed 
