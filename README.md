@@ -2,22 +2,31 @@
 
 <img src="img/Lorden.jpg" width="900" />
 
+The travelers began their journey in ravenswood of lorden, at the wizards nook.
+
+<img src="img/ravenswood.jpg" width="900" />
+
 ## Session 1
 
 The party was decieved by Draco (or supposedly him) who gave them a mark on their right wrist.
 
 the mark:
 
-Draco turned into shadow and they were sent to the shadow dimension
+Draco turned into shadow and the party was sent to the shadow dimension (shadowfell)...
+Ravenswood had been transormed and turned into a shadow version of itself...
 
-They went to the shadow dimension, got attacked by skeletons and the like
-#### Notable encounter: they met a spirit dog 
+<img src="img/ravenswood-shadow.jpg" width="900" />
+
+The party was then attacked by skeletons
+#### Notable encounter: a spirit dog 
 
 The party narrowly escaped the shadow creatures and made it to the dark citadel
 
 #### Somerled (kacper) +1 silver sword
 
-Party met saffos:
+Party met Saffos:
+
+<img src="img/saffos.jpg" width="900" />
 
 Saffos explained to them that they are part of a prophecy, 
 they are bound to the three realms and travel between them sporadically
@@ -26,7 +35,10 @@ Saffos provided a ring for Ondren of the fey,
 #### Nebbles (Neal) could tell there is something about this ring that was evil
 Neal took it and put it in a bag. 
 
-Feeling a burning sensation the group was sent to the fey world
+Feeling a burning sensation the group was then sent to the fey world...
+Ravenswood was turned into a fey version of itself
+
+<img src="img/ravenswood-fey.jpg" width="900" />
 
 They went to the fae world, 
 Neal warned about the ring probably being cursed,
