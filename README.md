@@ -54,14 +54,20 @@ The next goal is to get a syncronator (maybe have to work for it since it's a pr
 
 ### Gold
 Mollie 23
+
 Somerled (Kacper) 20
+
 Neal 80
+
 Alex 70
 
 ### Loot
 Bel (Mollie) +2 elven bread
+
 Somerled (kacper) +1 silver shortsword, +1 magic bowstring, 
+
 Nebbles (Neal) hashifey, 
+
 Damreus (Alex) +1 sparkle potion
 
 ## Session 2
@@ -121,7 +127,9 @@ Spell Scroll (Silent Image) (common, gp 100)
 
 ### Provisions
 Bel (+2 holy water, +1 anti venom)
+
 Nebbles (neal) +5 holy water
+
 Damreus (alex) +5 antivenoms, +1 potion of healing
 
 ### 1. The shipment
@@ -131,8 +139,11 @@ After defeating the troglodytes the adventurers found 3.5 barrels of magical pow
 
 ### Gold
 Bel (Mollie) 14gp 
+
 Somerled (Kacper) 20 
+
 Neal 70
+
 Alex 43
 
 ### Loot
