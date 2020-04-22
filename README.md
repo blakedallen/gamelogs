@@ -175,7 +175,7 @@ Bel (Mollie)
 +1 bag of magic yellow powder
 +1 bag of magic feathers 
 
-Somerled (kacper) -1 silver sword (broken)
+Somerled (kacper) -1 silver sword (broken), -1 bowstring (maru)
 
 Nebbles (Neal) +1 ships log, +1 wind crystal
 
