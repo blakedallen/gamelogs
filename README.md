@@ -67,7 +67,7 @@ Ondren put the ring in a drawer for further study
 #### Nebbles (Neal) smoked hashifae & got a whimsical potion of booming voice (allows the user to speak fey, but also makes their voice incredibly loud, whispering is like screaming for 12 hours)
 #### Bel (Mollie) has 2 elvish waybread - these can act as replenishment like a short rest
 
-The next goal is to get a syncronator (maybe have to work for it since it's a pricey piece of equipment which can channel planar energies) that will be what ludmarillion sets them to do. Ludmarillion knows the way into wizard city (the password), but won't tell it unless they help him.
+The next goal is to get a syncronator that will be what ludmarillion sets them to do. Ludmarillion knows the way 
 
 ### Gold
 Mollie 23
