@@ -23,9 +23,11 @@ The travelers began their journey in ravenswood of lorden, at the wizards nook.
 
 ## Session 1
 
-The party was decieved by Draco (or supposedly him) who gave them a mark on their right wrist.
+The party was decieved by Draco (or supposedly him) who gave them a magical tattoo on their right wrist.
 
 the mark:
+
+<img src="img/themark.png" width="400" />
 
 Draco turned into shadow and the party was sent to the shadow dimension (shadowfell)...
 Ravenswood had been transormed and turned into a shadow version of itself...
