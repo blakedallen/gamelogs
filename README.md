@@ -25,7 +25,7 @@ The travelers began their journey in ravenswood of lorden, at the wizards nook.
 
 The party was decieved by Draco (or supposedly him) who gave them a magical tattoo on their right wrist.
 
-the mark:
+### the mark:
 
 <img src="img/themark.png" width="400" />
 
@@ -46,7 +46,7 @@ Party met Saffos:
 <img src="img/saffos.jpg" width="900" />
 
 Saffos explained to them that they are part of a prophecy, 
-they are bound to the three realms and travel between them sporadically
+they are bound to the three realms and will be traveling between them sporadically
 Saffos provided a ring for Ondren of the fey, 
 
 #### Nebbles (Neal) could tell there is something about this ring that was evil
@@ -58,7 +58,7 @@ Ravenswood was turned into a fey version of itself
 <img src="img/ravenswood-fey.jpg" width="900" />
 
 They went to the fae world, 
-Neal warned about the ring probably being cursed,
+Neal met Ondren and warned him about the ring probably being cursed,
 Neal gave the ring to Ondren,
 Ondren put the ring in a drawer for further study
 
