@@ -33,10 +33,10 @@ Neal warned about the ring probably being cursed,
 Neal gave the ring to Ondren,
 Ondren put the ring in a drawer for further study
 
-### Somerled (Kacper) +1 magical bowstring
-### Damreus (Alex) got a bottle of the shimmering fey well water
-### Nebbles (Neal) smoked hashifae & got a whimsical potion of booming voice (allows the user to speak fey, but also makes their voice incredibly loud, whispering is like screaming for 12 hours)
-### Bel (Mollie) has 2 elvish waybread - these can act as replenishment like a short rest
+#### Somerled (Kacper) +1 magical bowstring
+#### Damreus (Alex) got a bottle of the shimmering fey well water
+#### Nebbles (Neal) smoked hashifae & got a whimsical potion of booming voice (allows the user to speak fey, but also makes their voice incredibly loud, whispering is like screaming for 12 hours)
+#### Bel (Mollie) has 2 elvish waybread - these can act as replenishment like a short rest
 
 The next goal is to get a syncronator (maybe have to work for it since it's a pricey piece of equipment which can channel planar energies) that will be what ludmarillion sets them to do. Ludmarillion knows the way into wizard city (the password), but won't tell it unless they help him.
 
@@ -70,7 +70,7 @@ Damreus (alex) attempted 3 seductions and did not succeed
 Ludmarillion will give access to a wizard who can make a synchronator, 
 but wants something in return...
 
-Ludmarillions quests:
+### Ludmarillions quests:
 1. A shipment of precious magical components was lost on the coast, it seems to be infested with evil merfolk type creatures. Collect as many of the components / materials as you can and he will reward you appropriately
 
 2. There's a local wizard who seems to be turning people to sheep, horses and other animals it's getting a bit bothersome and affecting his bottom line. Get to the bottom of this and if possible get his wand for Ludmarillion to inspect.
