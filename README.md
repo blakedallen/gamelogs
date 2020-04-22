@@ -17,7 +17,7 @@ Ravenswood had been transormed and turned into a shadow version of itself...
 
 <img src="img/ravenswood-shadow.jpg" width="900" />
 
-The party was then attacked by skeletons
+The party was then attacked by the undead (skeleton warriors)
 #### Notable encounter: a spirit dog 
 
 The party narrowly escaped the shadow creatures and made it to the dark citadel
@@ -68,8 +68,9 @@ Damreus (Alex) +1 sparkle potion
 
 #### pre-game, everyone +1 level (2nd level)
 
-Dark lisa + Bel are now friends
-successful charisma roll
+#### Dark lisa + Bel are now friends
+Bel had a successful charisma roll, dark lisa recommends bel find "witches shadow" in the shadow dimension
+to expand her necromancy and level them both up.  
 
 ### ludmarillion 
 
@@ -144,7 +145,10 @@ Bel (Mollie)
 +1 bag of magic white powder
 +1 bag of magic yellow powder
 +1 bag of magic feathers 
+
 Somerled (kacper) -1 silver sword (broken)
+
 Nebbles (Neal) +1 ships log, +1 wind crystal
+
 Damreus (Alex) +1 eldritch tome
 
