@@ -1,7 +1,7 @@
 #Lorden
 
 The adventure starts in Lorden
-![Lorden Overword](img/lorden.png)
+![Lorden Overword](img/Lorden.png)
 
 ## Session 1
 
