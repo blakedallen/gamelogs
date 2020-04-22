@@ -1,6 +1,5 @@
-#Lorden
+# Lorden
 
-The adventure starts in Lorden
 <img src="img/Lorden.jpg" width="500" />
 
 ## Session 1
