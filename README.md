@@ -4,7 +4,7 @@ A mysterious mark, a mysterious prophecy, what could it mean...
 
 ## Character sheets
 
-<a href="https://www.dndbeyond.com/characters/26402383/BaWdPQ" >Damreus (alex)</a>
+<a href="https://www.dndbeyond.com/characters/26402383/BaWdPQ" >Damreus (Alex)</a>
 
 <a href="https://www.dndbeyond.com/characters/26696317/8iaO2z" >Bel (Mollie)</a>
 
