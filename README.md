@@ -4,13 +4,13 @@ A mysterious mark, a mysterious prophecy, what could it mean...
 
 ## Character sheets
 
-<a href="https://www.dndbeyond.com/characters/26402383/BaWdPQ" >Damreus (Alex)</a>
+<a href="https://www.dndbeyond.com/characters/26402383/BaWdPQ" target="_blank"> Damreus (Alex)</a>
 
-<a href="https://www.dndbeyond.com/characters/26696317/8iaO2z" >Bel (Mollie)</a>
+<a href="https://www.dndbeyond.com/characters/26696317/8iaO2z" target="_blank">Bel (Mollie)</a>
 
-<a href="https://www.dndbeyond.com/characters/26355472/b9DM9b" >Nebbles (Neal)</a>
+<a href="https://www.dndbeyond.com/characters/26355472/b9DM9b" target="_blank">Nebbles (Neal)</a>
 
-<a href="https://www.dndbeyond.com/characters/26596309" >Somerled (Kacper)</a>
+<a href="https://www.dndbeyond.com/characters/26596309" target="_blank">Somerled (Kacper)</a>
 
 
 ## Lorden
