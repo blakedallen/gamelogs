@@ -183,3 +183,37 @@ Nebbles (Neal) +1 ships log, +1 wind crystal
 
 Damreus (Alex) +1 eldritch tome
 
+## Session 3
+
+### Ravenswood
+(...)
+
+### The heist
+
+The adventurers successfully completed the heist,
+
+(...)
+
+### Badlands
+(...)
+
+### Shadow Dimension (shadowfell)
+
+After completing the heist, the adventurers felt a burning sensation on their wrist
+they were teleported to the shadow dimension... 
+
+### Loot
+Bel (Mollie)
++40 crystal dragonscales
++1 beast skull
++1 fire whip
+
+Somerled (Kacper)
++1 crossbow (repaired)
+
+Nebbles (Neal)
++1 pickaxe
++1 portable hole (wondrous item)
++15 crystal dragonscales
+
+
