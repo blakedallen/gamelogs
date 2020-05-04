@@ -186,16 +186,47 @@ Damreus (Alex) +1 eldritch tome
 ## Session 3
 
 ### Ravenswood
-(...)
+
+In ravenswood the players met with ludmarillion (known as LUDA)
+
+The players all recieved 75gp as a stipend in addition to room and board. 
+LUDA described the next jobs:
+```
+There is a shipment of crystal dragon scales coming in a little bit. We've got all the info on the material, how to get in and where to take, we just need the muscle to make it happen. 
+
+If you complete this task, you will have a synchronator on me. 
+```
+
+Mollie seemed to get a veiled threat from LUDA about not skimming from the pot
+LUDA used some planar magic to give the group the ability to resist portal hopping
+with a wisdom save. 
+
+Nebbles & Mollie teamed up to buy a portable hole (wondrous item) for 200gp
+note: a portable hole is usually around 8000gp...
+
+A loud goblin wearing a lead cap is ringing a bell and claiming some ludicrous things.
+
+```
+Faranor was an inside job! The city that sunk into the sand? The badlands?? Have you heard? Everyone presumed it was a geological fault that was unknown??? Come on! It was an inside job by the white willow court to remove the largest northern port competition and make white willow the most powerful port of lorden! The Orcs who live there now, have to be working for prince Charles... it all makes sense. He’s a political evil genius!!! 
+
+Birds aren’t real!! Not because they are mechanical or anything like that... that would be insane. They’re just not real! 
+
+Life is a simulation in a magical artifact kind of like a large game of chess with more words and dice!! This is all a sick game!
+```
+
+### Badlands
+
+The players see a 
 
 ### The heist
 
 The adventurers successfully completed the heist,
 
-(...)
+The adventurers killed 2 dwarves.
+Nebbles cast levitate on the dwarf Blagthy whom he used to 
+scout out any traps in the dungeon
 
-### Badlands
-(...)
+
 
 ### Shadow Dimension (shadowfell)
 
