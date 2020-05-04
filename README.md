@@ -187,7 +187,7 @@ Damreus (Alex) +1 eldritch tome
 
 ### Ravenswood
 
-In ravenswood the players met with ludmarillion (known as LUDA)
+In ravenswood the players met with ludmarillion (now known as LUDA)
 
 The players all recieved 75gp as a stipend in addition to room and board. 
 LUDA described the next jobs:
@@ -204,6 +204,10 @@ with a wisdom save.
 Nebbles & Mollie teamed up to buy a portable hole (wondrous item) for 200gp
 note: a portable hole is usually around 8000gp...
 
+<img src="https://vignette.wikia.nocookie.net/forgottenrealms/images/7/73/Portable_hole-5e.jpg/revision/latest?cb=20170131003128">
+
+### Goblin Conspiracies 
+<img src="https://vignette.wikia.nocookie.net/djs-dd-world/images/0/0a/Goblins.jpg/revision/latest?cb=20170220025605">
 A loud goblin wearing a lead cap is ringing a bell and claiming some ludicrous things.
 
 ```
@@ -216,7 +220,7 @@ Life is a simulation in a magical artifact kind of like a large game of chess wi
 
 ### Badlands
 
-The players saw about 13 orcs on the blasted lanscape
+The players saw about 13 orcs on the blasted landscape
 
 ### The heist
 
@@ -226,9 +230,14 @@ The adventurers killed 2 dwarves.
 Nebbles cast levitate on the dwarf Blagthy whom he used to 
 scout out any traps in the dungeon, and lure charles another dwarf who met his demise.
 
-
 Blagthy had 12 kids, (1 more on the way), begging for the adventurers to spare him
 blagthy then ran away screaming
+
+The actual dragonscale heist was interupted by a set of feral rat people who tried to "heist" the heist.
+
+<img src="https://i.pinimg.com/originals/5c/7e/d5/5c7ed5fecea651f278459c8c0054a0e0.jpg" />
+
+Multiple rats were slain, and they stole 50 dragon scales. 
 
 ### Shadow Dimension (shadowfell)
 
