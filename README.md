@@ -216,7 +216,7 @@ Life is a simulation in a magical artifact kind of like a large game of chess wi
 
 ### Badlands
 
-The players see a 
+The players saw about 13 orcs on the blasted lanscape
 
 ### The heist
 
@@ -224,9 +224,11 @@ The adventurers successfully completed the heist,
 
 The adventurers killed 2 dwarves.
 Nebbles cast levitate on the dwarf Blagthy whom he used to 
-scout out any traps in the dungeon
+scout out any traps in the dungeon, and lure charles another dwarf who met his demise.
 
 
+Blagthy had 12 kids, (1 more on the way), begging for the adventurers to spare him
+blagthy then ran away screaming
 
 ### Shadow Dimension (shadowfell)
 
