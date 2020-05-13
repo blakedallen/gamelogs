@@ -277,14 +277,13 @@ Somerled & Artificer Row - Somerled choose to work with Dania the artificer
 Somerled got the icesteel sword checked out, and the amulet checked out,
 he learned that they aren't cursed but the icesteel sword has some sort darkness to it in addition to the ice power. And the amulet appears to have a small charm on it. 
 
-Bel - Death Druids, renown + perks, explain @ start of session the were-tiger and it's ghastly form. A crystalline fungus which is an alien being which the death druids cultivate and grow, which powers their necromancies. 
-Mollie loves this because it's death positive magic;
+Bel - Death Druids, renown + perks, explain @ start of session the were-tiger and it's ghastly form. A crystalline fungus which is an alien being which the death druids cultivate and grow, which powers their necromancies. It's death positive magic;
 
 Damreus - Sisters of the flame; damreus completed the tasks in the halls of flame, she was tested phsyically, mentally and ethically... and was offered to join if she can get acquire a fire elemental -- more info on this will be given including a planar visa where damreus can go to the elemental plane of fire to get the elemental. 
 
-All 4 individual one shots were completed. Todo: perks & sidequests.
+All 4 individual one shots were completed.
 
-There were way more sheep in ravenswood, the evil transmorgifying wizard has been busy. 
+There were WAY more sheep in ravenswood, the evil transmorgifying wizard has been busy... 
 
 Luda spoke to the party about Blagthy who apparently spread word about a description which definitely described the group,
 blagthy didn't have any names or anything, so they are good for now, but probably best to lay low in ravenswood and avoid White Willow where the white court is posting wanted signs for anyone who has knowledge of the recent theivery that occured in a rare shipment of crystal dragon scales... of which nearly 1/2 of it went missing.
