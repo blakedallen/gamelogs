@@ -258,4 +258,90 @@ Nebbles (Neal)
 +1 portable hole (wondrous item)
 +15 crystal dragonscales
 
+## Session 4
+
+TODO: write up session 4
+collector
+fey world
+synchronator
+jenkins
+damreus + jenkins = <3
+wizard city
+
+## Session 5
+
+Nebbles & the druids Air Circle -
+renown + perks, has a new 120ft jump perk
+
+Somerled & Artificer Row - Somerled choose to work with Dania the artificer
+Somerled got the icesteel sword checked out, and the amulet checked out,
+he learned that they aren't cursed but the icesteel sword has some sort darkness to it in addition to the ice power. And the amulet appears to have a small charm on it. 
+
+Bel - Death Druids, renown + perks, explain @ start of session the were-tiger and it's ghastly form. A crystalline fungus which is an alien being which the death druids cultivate and grow, which powers their necromancies. 
+Mollie loves this because it's death positive magic;
+
+Damreus - Sisters of the flame; damreus completed the tasks in the halls of flame, she was tested phsyically, mentally and ethically... and was offered to join if she can get acquire a fire elemental -- more info on this will be given including a planar visa where damreus can go to the elemental plane of fire to get the elemental. 
+
+All 4 individual one shots were completed. Todo: perks & sidequests.
+
+There were way more sheep in ravenswood, the evil transmorgifying wizard has been busy. 
+
+Luda spoke to the party about Blagthy who apparently spread word about a description which definitely described the group,
+blagthy didn't have any names or anything, so they are good for now, but probably best to lay low in ravenswood and avoid White Willow where the white court is posting wanted signs for anyone who has knowledge of the recent theivery that occured in a rare shipment of crystal dragon scales... of which nearly 1/2 of it went missing.
+
+The group went to the fey dimension where they met with Ondren. Ondren was wearing the ring, his eyes red... under saffos' control... Ondren welcomed the party like friends and thanked them for giving him the ring. 
+Nebbles asked for the ring back.
+Ondren said it's fine and a large golem burst out of the house and took ondren on top of it, then started to lay waste to the country side. 
+
+The fey believe the party is on their side, for now, and needs the parties aid to stop whatever calamity is coming next...
+
+## Quests
+Party:
+1. Ondren is a super mech golem monster ravaging the fey countryside, he seems to be under the influence of the ring that saffos tricked the party into to giving Ondren. The fey believe the party for now, but they need the parties aid to stop whatever calamity is coming next.
+
+2. The transmorgriphying wizard is getting out of control and turning large numbers of the people of ravenswood into sheep. Luda has doubled his pay to $2500 total for taking care of him.
+
+Bel:
+- kill the collector and bring back his skulls to the death druids and she will be rewarded
+- find witches shadow and bring dark lisa potent necromancies
+
+Nebbles:
+- Get ironwood from the shadow dimension ravenswood (ravenshade) 
+
+Damreus:
+- Get a fire elemental from the elemental plane of fire. 
+
+Somerled:
+- Fight in the pit fighting and will get extra perks towards armor and weapons.
+
+## Loot:
+
+### Bel:
++5 Renown at the death druids (kill the collector and bring back his skulls and she will be rewarded)
++1 cat figurine (purrs lightly when you stroke it, -5 stress)
++1 cat -75gp (todo Bel: decide the breed & name it)
++1 weretiger (death druids fungus crystal in the were-tiger skull; todo: name it) 
++1 dire-panther -1000gp (a new dire panther todo: name it)
++1 Giffons pouch (minor bag of holding) -700gp
++1 Mantle of Security (Reduces Stress) -500gp
+
+### Nebbles:
++5 renown at the druids of the air circle (get wood from the ironwood tree in the shadow dimension of ravenswood to get a better staff)
++1 Bramble buckler
++1 hawk fox (todo: name it)
++1 Staff enhancement Wind Crystal Staff +1d6 wind damage
++1 druid ability (wind jump) able to jump 120 ft 1d4 times per day. 
+
+### Somerled:
+ +1 icesteel greatsword +1d6 ice damage - a pure icy energy emanates from this sword. Additionally a dark energy seems to be in the sword. It's not cursed, but it's got a large potential for power whether that is for good or evil is for the user to decide.
++500 gp for winning pit fighting 1 (total: 3500gp)
++10 renown in artificer's row, not losing a battle (+5), new contender (+5)
+
+### Damreus:
++1 potion for holding a fire elemental
++5 renown at the sisters of the flame (may the eternal flame be with you)
++1 planar visa with access to the elemental plane of fire to get a flame elemental
+
+
+
 
