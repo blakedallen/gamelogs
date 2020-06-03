@@ -60,7 +60,7 @@ Knick Knacks:
 A palm sized statue of a kitten that purrs when you pet it. (the purring makes you feel relaxed... - 10 stress, can choose any color)
 
 ** Special of the day 
- - 2500gp
+Large Tortle - 2500gp
 
 Mice; Rats; & Bats - 25gp
 
