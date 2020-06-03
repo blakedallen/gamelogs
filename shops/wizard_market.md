@@ -96,7 +96,6 @@ This magical wooden trident has 3 charges and regains 1d3 expended charges each 
 +1 harpoon + 1d8 lightning
 
 ### Periscope Rod - 500 gp
-<img src="https://i.redd.it/el6gw5ckg7r41.png">
 
 Periscope Rod
 Rod, common
@@ -110,7 +109,7 @@ Orb of Remembrance -
 
 ### Novanite Armor - 1500gp
 
-<img src="https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/36814128/1f61c0633c9641e5aad06f2cee81d159/1.png?token-time=1590128473&token-hash=8fH9QV3y9R_f0EzEBv-v4rs1SYDh2HihLDBx6g0ETUQ%3D">
+
 Armor (any metal armor), very rare (requires attunement)
 
 Novanite is a strong metal smelt from ore mined in the Astral Plane. Armor made from this metal absorbs more light than normal and gives off a strange, otherworldly aura. Glimmering cosmos can be seen in the armor's reflections at night. You have a +1 bonus to AC while wearing this armor.
@@ -120,7 +119,6 @@ Astral Leap. While wearing this armor, you can speak its command word as an acti
 
 ### Griffon Coinpouch
 <img src="https://i.redd.it/veux941m48p41.png">
-[x](https://i.redd.it/veux941m48p41.png)
 
 A minor bag of holding, can hold small objects and still only weighs 1 pound. 
 
