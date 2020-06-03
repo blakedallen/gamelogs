@@ -1,5 +1,43 @@
 # Wizard Market
 
+## Artificer Row
+
+Bastard Sword (Medium) (+5 weapon, Flaming Burst) (sheds light) (98335 gp)
+This finely crafted weapon is said to have been created to slay the Wyrm of Vidusi.
+
+Dagger (Medium) (+1 weapon) (1002 gp)
+Every strike by this weapon is accompanied by a feral snarl.
+
+Dwarven Waraxe (Medium) (+1 weapon, Spell Storing) (8330 gp)
+This masterwork weapon is said to be imbued with the spirit of the gnome hero Thali, leader of the Jade Arrows.
+
+Dwarven Waraxe (Small) (+3 weapon) (18330 gp)
+A masterwork weapon, inlaid with jet.
+
+Greatsword (Small) (+1 weapon, Defending) (3350 gp)
+A finely crafted weapon, wrapped in silver engravings.
+
+Heavy Mace (Small) (+1 weapon, Vicious) (1312 gp)
+This distinctive weapon once belonged to the legendary ranger Camay, who perished in the Sunless Swamp.
+
+Longsword (Medium) (Mithral) (+1 weapon, Ice) (1315 gp)
+Every strike by this weapon is accompanied by eerie silence.
+
+Longsword (Small) (+1 weapon) (inscription provides clue to function) (1315 gp)
+This finely crafted weapon once belonged to the renowned hero Rose, who fell in the Infernal Crusade.
+
+Longsword (Small) (+1 weapon, Throwing, Vorpal) (2315 gp)
+A distinctive weapon, engraved with runes of destruction.
+
+Mace of Smiting (75312 gp) (Medium)
+Every strike by this weapon is accompanied by a burst of light.
+
+Rapier (Medium) (+2 weapon, Brilliant Energy) (128320 gp)
+Foes slain by this weapon dissolve into shards of glass.
+
+Siangham (Small) (+1 weapon, Mighty Cleaving) (8303 gp)
+This masterwork weapon is said to compel its bearer to protect the Island of Dragons.
+
 ## Artificer Row Services
 
 ### Magical Infusion 2500gp
@@ -118,13 +156,11 @@ Astral Leap. While wearing this armor, you can speak its command word as an acti
 
 
 ### Griffon Coinpouch
-<img src="https://i.redd.it/veux941m48p41.png">
 
 A minor bag of holding, can hold small objects and still only weighs 1 pound. 
 
 ### Overseer's Spade - 750 gp
 
-<img src="https://c10.patreonusercontent.com/3/eyJ3Ijo2MjB9/patreon-media/p/post/35704086/b2888025cd3540e5ba93d6bc8fd4ea1b/1.png?token-time=1590129613&token-hash=ltdYUpKw8x40uCTJJbwqoDbj387w-GzmKxC53XwHtXw%3D">
 
 Wondrous item, uncommon
 
@@ -168,43 +204,6 @@ This distinctive ring also glows when undead are near.
 Wand of Shatter (340 gp)
 This masterwork wand was created by a god of magic for his most loyal champion.
 
-## Artificer Row
-
-Bastard Sword (Medium) (+5 weapon, Flaming Burst) (sheds light) (98335 gp)
-This finely crafted weapon is said to have been created to slay the Wyrm of Vidusi.
-
-Dagger (Medium) (+1 weapon) (1002 gp)
-Every strike by this weapon is accompanied by a feral snarl.
-
-Dwarven Waraxe (Medium) (+1 weapon, Spell Storing) (8330 gp)
-This masterwork weapon is said to be imbued with the spirit of the gnome hero Thali, leader of the Jade Arrows.
-
-Dwarven Waraxe (Small) (+3 weapon) (18330 gp)
-A masterwork weapon, inlaid with jet.
-
-Greatsword (Small) (+1 weapon, Defending) (3350 gp)
-A finely crafted weapon, wrapped in silver engravings.
-
-Heavy Mace (Small) (+1 weapon, Vicious) (1312 gp)
-This distinctive weapon once belonged to the legendary ranger Camay, who perished in the Sunless Swamp.
-
-Longsword (Medium) (Mithral) (+1 weapon, Ice) (1315 gp)
-Every strike by this weapon is accompanied by eerie silence.
-
-Longsword (Small) (+1 weapon) (inscription provides clue to function) (1315 gp)
-This finely crafted weapon once belonged to the renowned hero Rose, who fell in the Infernal Crusade.
-
-Longsword (Small) (+1 weapon, Throwing, Vorpal) (2315 gp)
-A distinctive weapon, engraved with runes of destruction.
-
-Mace of Smiting (75312 gp) (Medium)
-Every strike by this weapon is accompanied by a burst of light.
-
-Rapier (Medium) (+2 weapon, Brilliant Energy) (128320 gp)
-Foes slain by this weapon dissolve into shards of glass.
-
-Siangham (Small) (+1 weapon, Mighty Cleaving) (8303 gp)
-This masterwork weapon is said to compel its bearer to protect the Island of Dragons.
 
 
 
