@@ -1,4 +1,4 @@
-# Wizard Market
+# Wizard Markets
 
 ## Artificer Row
 
